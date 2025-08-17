@@ -3,7 +3,7 @@ description: Example documentation website with GitHub Pages
 theme: minima
 
 url: "https://kanujgit.github.io"
-baseurl: "/my-docs-site"
+baseurl: "/doc"
 
 search_enabled: true
 nav_order: 1

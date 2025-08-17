@@ -1,8 +1,8 @@
 title: My Docs Site
 description: Example documentation website with GitHub Pages
-theme: just-the-docs
+theme: minima
 
-url: "https://github.com/kanujgit/doc"
+url: "https://kanujgit.github.io"
 baseurl: "/my-docs-site"
 
 search_enabled: true

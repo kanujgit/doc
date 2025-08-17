@@ -1,0 +1,7 @@
+title: My Documentation
+description: A simple docs website powered by GitHub Pages
+theme: just-the-docs
+
+# Optional settings
+url: https://github.com/kanujgit/doc
+color_scheme: light

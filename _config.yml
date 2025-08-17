@@ -5,3 +5,18 @@ theme: just-the-docs
 # Optional settings
 url: https://github.com/kanujgit/doc
 color_scheme: light
+
+nav_order: 1
+nav_title: "Docs Site"
+search_enabled: true
+
+# Sidebar navigation
+nav:
+  - title: "Getting Started"
+    url: /getting-started
+  - title: "Installation"
+    url: /installation
+  - title: "Usage"
+    url: /usage
+  - title: "FAQ"
+    url: /faq

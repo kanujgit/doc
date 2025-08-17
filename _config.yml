@@ -1,16 +1,13 @@
-title: My Documentation
-description: A simple docs website powered by GitHub Pages
+title: My Docs Site
+description: Example documentation website with GitHub Pages
 theme: just-the-docs
 
-# Optional settings
-url: https://github.com/kanujgit/doc
-color_scheme: light
+url: "https://github.com/kanujgit/doc"
+baseurl: "/my-docs-site"
 
-nav_order: 1
-nav_title: "Docs Site"
 search_enabled: true
+nav_order: 1
 
-# Sidebar navigation
 nav:
   - title: "Getting Started"
     url: /getting-started
@@ -20,3 +17,4 @@ nav:
     url: /usage
   - title: "FAQ"
     url: /faq
+
